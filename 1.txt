@@ -1,0 +1,5 @@
+setting-up the global configuartion in git with vscode
+
+git config --global user.name "DivyaThoshini"
+git config --global user.email "divj1992@gmail.com"
+git config --list
